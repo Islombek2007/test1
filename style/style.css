@@ -1,0 +1,95 @@
+body {
+  height: 2000px; }
+
+header .container {
+  background-color: #313131;
+  height: 55px; }
+  header .container .container {
+    margin-left: -15px;
+    width: 1300px;
+    background-color: #006a6a;
+    height: 350px; }
+    header .container .container .section1 h1, header .container .container .section1 h2 {
+      color: white; }
+    header .container .container .section1 h6 {
+      color: white; }
+    header .container .container .section1 img {
+      width: 150px;
+      height: 150px; }
+  header .container .row .div1 {
+    width: 500px; }
+    header .container .row .div1 h6:hover {
+      cursor: pointer; }
+    header .container .row .div1 h6 {
+      color: blue;
+      font-weight: 800; }
+  header .container .row h6 {
+    color: white;
+    font-weight: 800; }
+
+.section2 {
+  margin-top: 380px; }
+
+.section3 {
+  margin-top: 50px; }
+  .section3 .container {
+    height: 320px;
+    background-color: #006a6a; }
+    .section3 .container h2 {
+      margin-top: -10px;
+      color: white; }
+    .section3 .container .btn {
+      margin-left: 500px;
+      border: 1px solid white;
+      color: white; }
+    .section3 .container .row h6 {
+      color: white; }
+
+.section4 {
+  margin-top: 50px; }
+  .section4 .div2 {
+    margin-left: 500px;
+    width: 200px; }
+    .section4 .div2 .input1 {
+      width: 350px;
+      text-decoration: none;
+      background: none;
+      border: none;
+      border-bottom: 2px solid silver; }
+    .section4 .div2 .input1::placeholder {
+      color: silver; }
+  .section4 .btn {
+    margin-left: 500px;
+    width: 70px;
+    height: 40px;
+    background-color: green; }
+    .section4 .btn p {
+      color: white; }
+
+.section5 {
+  margin-top: 50px; }
+  .section5 .container {
+    background-color: #454545; }
+    .section5 .container .col-3 {
+      height: 120px; }
+      .section5 .container .col-3 .t1 {
+        font-weight: 400;
+        color: deeppink; }
+      .section5 .container .col-3 .t1:hover {
+        cursor: pointer; }
+      .section5 .container .col-3 img {
+        width: 30px;
+        height: 30px; }
+      .section5 .container .col-3 h5, .section5 .container .col-3 h6 {
+        color: white; }
+      .section5 .container .col-3 h6 {
+        font-weight: 300; }
+
+.section6 .container {
+  height: 30px;
+  background-color: black; }
+.section6 h6 {
+  font-weight: 400;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
